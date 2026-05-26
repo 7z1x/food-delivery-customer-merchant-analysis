@@ -19,8 +19,6 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Scikit-learn · Tableau
 
 ## Dashboard Tableau
 
-## Tableau Dashboard
-
 [![Food Delivery Customer & Merchant Analysis](https://public.tableau.com/static/images/Fo/FoodDeliveryCustomerMerchantAnalysis/Dashboard1/1.png)](https://public.tableau.com/views/FoodDeliveryCustomerMerchantAnalysis/Dashboard1)
 
 ## Analysis & Results
