@@ -12,8 +12,8 @@ Bagaimana platform food delivery dapat menggunakan data transaksi untuk meningka
 Python · Pandas · NumPy · Seaborn · Matplotlib · Scikit-learn · Tableau
 
 ## Links
-- 📓 [Kaggle Notebook](#) <!-- Ganti dengan link Kaggle kamu -->
-- 📊 [Tableau Dashboard](#) <!-- Ganti dengan link Tableau Public kamu -->
+- 📓 [Kaggle Notebook](https://www.kaggle.com/code/zx1700/da03-food-delivery)
+<!-- - 📊 [Tableau Dashboard](#) <!-- Ganti dengan link Tableau Public kamu -->
 
 ---
 
