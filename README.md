@@ -13,9 +13,15 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Scikit-learn · Tableau
 
 ## Links
 - 📓 [Kaggle Notebook](https://www.kaggle.com/code/zx1700/da03-food-delivery)
-<!-- - 📊 [Tableau Dashboard](#) <!-- Ganti dengan link Tableau Public kamu -->
+- 📊 [Tableau Interactive Dashboard](https://public.tableau.com/views/FoodDeliveryCustomerMerchantAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+
+## Dashboard Tableau
+
+## Tableau Dashboard
+
+[![Food Delivery Customer & Merchant Analysis](https://public.tableau.com/static/images/Fo/FoodDeliveryCustomerMerchantAnalysis/Dashboard1/1.png)](https://public.tableau.com/views/FoodDeliveryCustomerMerchantAnalysis/Dashboard1)
 
 ## Analysis & Results
 
@@ -104,5 +110,6 @@ Perbandingan order value antara order **dengan diskon** vs **tanpa diskon**.
 - **Operations**: Pantau restoran dengan KPT tinggi, optimalisasi alokasi rider di GK2
 
 ---
+
 
 *Project ini merupakan bagian dari portfolio Data Analyst.*
